@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunknotesanywhere_frontend"]=self["webpackChunknotesanywhere_frontend"]||[]).push([[443],{4335:function(n,e,t){t.r(e),t.d(e,{default:function(){return h}});var r=t(3396);const a={class:"about"},s=(0,r._)("h1",null,"This is an about page",-1),u=[s];function o(n,e){return(0,r.wg)(),(0,r.iD)("div",a,u)}var c=t(89);const f={},i=(0,c.Z)(f,[["render",o]]);var h=i}}]);
+//# sourceMappingURL=about.fc342ee2.js.map
